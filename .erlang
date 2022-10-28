@@ -1,0 +1,2 @@
+UD = "./user_default.erl".
+shell_default:c(UD).
